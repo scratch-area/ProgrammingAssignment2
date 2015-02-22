@@ -1,14 +1,14 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
+## Creates a Matrix
 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
+## cacheSolve returns the inverse of a matrix in the first argument or called x
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
